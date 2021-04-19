@@ -80,6 +80,6 @@ public class Bus {
 		this.route = route;
 	}
 	
-	
+	//bus entity
 	
 }
