@@ -32,7 +32,7 @@ public class Bus {
 	@JoinColumn(name="route_id") // should be route_id
 	private Route route;
 
-	public int getBusNo() {
+	public int getBusNo() { 
 		return busNo;
 	}
 
